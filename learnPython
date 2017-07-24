@@ -1,0 +1,10 @@
+文档阅读: https://ruby-china.org/topics/33517
+
+文档: https://docs.python.org/2/tutorial/index.html  
+
+python进阶: https://eastlakeside.gitbooks.io/interpy-zh/content/  
+
+1: install python 2.7.5
+2: install pip 
+3: install jupyter
+    $pip install jupyter
